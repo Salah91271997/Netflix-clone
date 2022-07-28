@@ -18,7 +18,7 @@
 
 ## Demo
 
-- [demo](https://netflix-5b611.web.app/)
+- [demo](https://netflix-clone-97e0e.web.app/)
 
 ## Built With/Topics
 
